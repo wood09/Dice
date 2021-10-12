@@ -20,7 +20,6 @@ void draw()
   }
   y=y+17;
  }
- System.out.println(total);
  textSize(30);
  fill(0);
  text(total, 250, 490); 
